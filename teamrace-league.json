@@ -1,0 +1,13 @@
+{
+  "name": "Teamrace League 2024 Repo",
+	"version": "24.1030",
+	"packages": {
+	  "teamrace_league_skins_final": {
+			"description": "Pack containing all skins for the Teamrace League 2024",
+			"version": "24.1030",
+			"checksum": "",
+			"url": "https://vas0sky.github.io/teamrace-league/teamrace-league-skins-final.zip",
+			"file": "teamrace_league_skins_final.zip"
+		}
+	}
+}
